@@ -103,7 +103,7 @@ template. Fill in the `time_zone` parameter using an
 [identifier from the IANA time zone database][time-zone].
 
 [queries]:   http://amundsen.com/media-types/collection/format/#query-templates
-[time-zime]: http://en.wikipedia.org/wiki/IANA_time_zone_database
+[time-zone]: http://en.wikipedia.org/wiki/IANA_time_zone_database
 
     $ curl -i -H 'Authorization: Token token="0gc504cf7e4a51ff8119"' \
            --get \
