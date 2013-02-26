@@ -36,7 +36,7 @@ the generic `application/json` media type.
  - `next`: The next set of items in the collection.
  - `previous`: The previous set of items in the collection.
  - `collection`: The collection of items containing the resource.
- - `canonical`: A [drop's](#drop) sharable URL. _This link is publicly accessible._
+ - `canonical`: A [drop's](#drop) shareable URL. _This link is publicly accessible._
  - `download`: Download a [drop's](#drop) content. _This link is publicly accessible._
  - `embed`: The [drop's](#drop) content. _This link is publicly accessible._
  - `icon`: The [drop's](#drop) thumbnail. _This link is publicly accessible._
